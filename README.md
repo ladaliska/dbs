@@ -5,3 +5,4 @@ Users: Name : Password
 
 Na mým pevným PC loginpage funguje... Na notebooku se mi nepovedlo přihlásit se uspěšně ani neúspěšně...
 Ozkoušeno v google Chrome.
+Práce Sólo.
